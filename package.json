@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "social-network-api",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulKup/social-network-api.git"
+  },
+  "author": "PaulKup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulKup/social-network-api/issues"
+  },
+  "homepage": "https://github.com/PaulKup/social-network-api#readme"
+}
