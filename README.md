@@ -1,6 +1,6 @@
 # Social Network API
   <img src='https://img.shields.io/badge/LICENSE-MIT-blue'/> 
-  https://drive.google.com/file/d/1Qv-yy9GpniE7yq4okWH_sg6SuEvoHdzF/view
+  [walkthrough video](https://drive.google.com/file/d/1Qv-yy9GpniE7yq4okWH_sg6SuEvoHdzF/view)
   ## Description
   MongoDB backend utilizing mongoose as the ODM for a social networking application that enables users to make short literary posts and reply to to other posts.
   ## Table of Contents
